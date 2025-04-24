@@ -1,1 +1,15 @@
+# Object files
+*.o
+
+# Executable files
+a.out
 *.exe
+*.out
+*.elf
+
+# Build files
+*.dSYM/
+*.log
+
+# If you have a 'build' directory
+build/
