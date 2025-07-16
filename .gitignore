@@ -7,18 +7,47 @@ a.out
 *.out
 *.elf
 
-
-# Build files
+# Auto-generated files when running .c files
+*.gch
 *.dSYM/
-*.log
 
-# If you have a 'build' directory
-build/
-
-// Ignore Visual Studio Code settings
-.vscode/
 *.csproj
+*.sln
+*.editorconfig
 
+# Compiled object files
+*.o
+*.obj
+
+# Compiled binary files
+*.exe
+*.out
+*.elf
+a.out
+
+# Precompiled headers
+*.gch
+
+# macOS generated files
+*.dSYM/
+.DS_Store
+
+# Visual Studio/MonoDevelop files
+*.csproj
+*.sln
+*.editorconfig
+
+# Build directories
+bin/
+obj/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Backup files
+*~
 # ignore bin and obj directories
 bin/
 obj/
+
