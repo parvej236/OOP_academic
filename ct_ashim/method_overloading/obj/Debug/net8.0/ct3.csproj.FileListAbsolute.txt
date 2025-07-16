@@ -1,0 +1,15 @@
+/home/parvej/Documents/OOP_academic/ct3/bin/Debug/net8.0/ct3
+/home/parvej/Documents/OOP_academic/ct3/bin/Debug/net8.0/ct3.deps.json
+/home/parvej/Documents/OOP_academic/ct3/bin/Debug/net8.0/ct3.runtimeconfig.json
+/home/parvej/Documents/OOP_academic/ct3/bin/Debug/net8.0/ct3.dll
+/home/parvej/Documents/OOP_academic/ct3/bin/Debug/net8.0/ct3.pdb
+/home/parvej/Documents/OOP_academic/ct3/obj/Debug/net8.0/ct3.GeneratedMSBuildEditorConfig.editorconfig
+/home/parvej/Documents/OOP_academic/ct3/obj/Debug/net8.0/ct3.AssemblyInfoInputs.cache
+/home/parvej/Documents/OOP_academic/ct3/obj/Debug/net8.0/ct3.AssemblyInfo.cs
+/home/parvej/Documents/OOP_academic/ct3/obj/Debug/net8.0/ct3.csproj.CoreCompileInputs.cache
+/home/parvej/Documents/OOP_academic/ct3/obj/Debug/net8.0/ct3.sourcelink.json
+/home/parvej/Documents/OOP_academic/ct3/obj/Debug/net8.0/ct3.dll
+/home/parvej/Documents/OOP_academic/ct3/obj/Debug/net8.0/refint/ct3.dll
+/home/parvej/Documents/OOP_academic/ct3/obj/Debug/net8.0/ct3.pdb
+/home/parvej/Documents/OOP_academic/ct3/obj/Debug/net8.0/ct3.genruntimeconfig.cache
+/home/parvej/Documents/OOP_academic/ct3/obj/Debug/net8.0/ref/ct3.dll

@@ -1,0 +1,15 @@
+/home/parvej/Documents/OOP_academic/task4/obj/Debug/net8.0/task4.GeneratedMSBuildEditorConfig.editorconfig
+/home/parvej/Documents/OOP_academic/task4/obj/Debug/net8.0/task4.AssemblyInfoInputs.cache
+/home/parvej/Documents/OOP_academic/task4/obj/Debug/net8.0/task4.AssemblyInfo.cs
+/home/parvej/Documents/OOP_academic/task4/obj/Debug/net8.0/task4.csproj.CoreCompileInputs.cache
+/home/parvej/Documents/OOP_academic/task4/obj/Debug/net8.0/task4.sourcelink.json
+/home/parvej/Documents/OOP_academic/task4/bin/Debug/net8.0/task4
+/home/parvej/Documents/OOP_academic/task4/bin/Debug/net8.0/task4.deps.json
+/home/parvej/Documents/OOP_academic/task4/bin/Debug/net8.0/task4.runtimeconfig.json
+/home/parvej/Documents/OOP_academic/task4/bin/Debug/net8.0/task4.dll
+/home/parvej/Documents/OOP_academic/task4/bin/Debug/net8.0/task4.pdb
+/home/parvej/Documents/OOP_academic/task4/obj/Debug/net8.0/task4.dll
+/home/parvej/Documents/OOP_academic/task4/obj/Debug/net8.0/refint/task4.dll
+/home/parvej/Documents/OOP_academic/task4/obj/Debug/net8.0/task4.pdb
+/home/parvej/Documents/OOP_academic/task4/obj/Debug/net8.0/task4.genruntimeconfig.cache
+/home/parvej/Documents/OOP_academic/task4/obj/Debug/net8.0/ref/task4.dll

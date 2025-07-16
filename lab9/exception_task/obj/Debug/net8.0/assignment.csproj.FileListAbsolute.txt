@@ -1,0 +1,15 @@
+/home/parvej/Documents/OOP_academic/lab9/assignment/obj/Debug/net8.0/assignment.GeneratedMSBuildEditorConfig.editorconfig
+/home/parvej/Documents/OOP_academic/lab9/assignment/obj/Debug/net8.0/assignment.AssemblyInfoInputs.cache
+/home/parvej/Documents/OOP_academic/lab9/assignment/obj/Debug/net8.0/assignment.AssemblyInfo.cs
+/home/parvej/Documents/OOP_academic/lab9/assignment/obj/Debug/net8.0/assignment.csproj.CoreCompileInputs.cache
+/home/parvej/Documents/OOP_academic/lab9/assignment/obj/Debug/net8.0/assignment.sourcelink.json
+/home/parvej/Documents/OOP_academic/lab9/assignment/bin/Debug/net8.0/assignment
+/home/parvej/Documents/OOP_academic/lab9/assignment/bin/Debug/net8.0/assignment.deps.json
+/home/parvej/Documents/OOP_academic/lab9/assignment/bin/Debug/net8.0/assignment.runtimeconfig.json
+/home/parvej/Documents/OOP_academic/lab9/assignment/bin/Debug/net8.0/assignment.dll
+/home/parvej/Documents/OOP_academic/lab9/assignment/bin/Debug/net8.0/assignment.pdb
+/home/parvej/Documents/OOP_academic/lab9/assignment/obj/Debug/net8.0/assignment.dll
+/home/parvej/Documents/OOP_academic/lab9/assignment/obj/Debug/net8.0/refint/assignment.dll
+/home/parvej/Documents/OOP_academic/lab9/assignment/obj/Debug/net8.0/assignment.pdb
+/home/parvej/Documents/OOP_academic/lab9/assignment/obj/Debug/net8.0/assignment.genruntimeconfig.cache
+/home/parvej/Documents/OOP_academic/lab9/assignment/obj/Debug/net8.0/ref/assignment.dll

@@ -1,0 +1,15 @@
+/home/parvej/Documents/OOP_academic/ct_provat/file/obj/Debug/net8.0/file.GeneratedMSBuildEditorConfig.editorconfig
+/home/parvej/Documents/OOP_academic/ct_provat/file/obj/Debug/net8.0/file.AssemblyInfoInputs.cache
+/home/parvej/Documents/OOP_academic/ct_provat/file/obj/Debug/net8.0/file.AssemblyInfo.cs
+/home/parvej/Documents/OOP_academic/ct_provat/file/obj/Debug/net8.0/file.csproj.CoreCompileInputs.cache
+/home/parvej/Documents/OOP_academic/ct_provat/file/obj/Debug/net8.0/file.sourcelink.json
+/home/parvej/Documents/OOP_academic/ct_provat/file/bin/Debug/net8.0/file
+/home/parvej/Documents/OOP_academic/ct_provat/file/bin/Debug/net8.0/file.deps.json
+/home/parvej/Documents/OOP_academic/ct_provat/file/bin/Debug/net8.0/file.runtimeconfig.json
+/home/parvej/Documents/OOP_academic/ct_provat/file/bin/Debug/net8.0/file.dll
+/home/parvej/Documents/OOP_academic/ct_provat/file/bin/Debug/net8.0/file.pdb
+/home/parvej/Documents/OOP_academic/ct_provat/file/obj/Debug/net8.0/file.dll
+/home/parvej/Documents/OOP_academic/ct_provat/file/obj/Debug/net8.0/refint/file.dll
+/home/parvej/Documents/OOP_academic/ct_provat/file/obj/Debug/net8.0/file.pdb
+/home/parvej/Documents/OOP_academic/ct_provat/file/obj/Debug/net8.0/file.genruntimeconfig.cache
+/home/parvej/Documents/OOP_academic/ct_provat/file/obj/Debug/net8.0/ref/file.dll

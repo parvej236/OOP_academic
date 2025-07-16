@@ -1,0 +1,15 @@
+/home/parvej/Documents/OOP_academic/hw7/bin/Debug/net8.0/hw7
+/home/parvej/Documents/OOP_academic/hw7/bin/Debug/net8.0/hw7.deps.json
+/home/parvej/Documents/OOP_academic/hw7/bin/Debug/net8.0/hw7.runtimeconfig.json
+/home/parvej/Documents/OOP_academic/hw7/bin/Debug/net8.0/hw7.dll
+/home/parvej/Documents/OOP_academic/hw7/bin/Debug/net8.0/hw7.pdb
+/home/parvej/Documents/OOP_academic/hw7/obj/Debug/net8.0/hw7.GeneratedMSBuildEditorConfig.editorconfig
+/home/parvej/Documents/OOP_academic/hw7/obj/Debug/net8.0/hw7.AssemblyInfoInputs.cache
+/home/parvej/Documents/OOP_academic/hw7/obj/Debug/net8.0/hw7.AssemblyInfo.cs
+/home/parvej/Documents/OOP_academic/hw7/obj/Debug/net8.0/hw7.csproj.CoreCompileInputs.cache
+/home/parvej/Documents/OOP_academic/hw7/obj/Debug/net8.0/hw7.sourcelink.json
+/home/parvej/Documents/OOP_academic/hw7/obj/Debug/net8.0/hw7.dll
+/home/parvej/Documents/OOP_academic/hw7/obj/Debug/net8.0/refint/hw7.dll
+/home/parvej/Documents/OOP_academic/hw7/obj/Debug/net8.0/hw7.pdb
+/home/parvej/Documents/OOP_academic/hw7/obj/Debug/net8.0/hw7.genruntimeconfig.cache
+/home/parvej/Documents/OOP_academic/hw7/obj/Debug/net8.0/ref/hw7.dll

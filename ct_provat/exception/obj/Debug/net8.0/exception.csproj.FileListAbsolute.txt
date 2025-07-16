@@ -1,0 +1,15 @@
+/home/parvej/Documents/OOP_academic/ct_provat/exception/bin/Debug/net8.0/exception
+/home/parvej/Documents/OOP_academic/ct_provat/exception/bin/Debug/net8.0/exception.deps.json
+/home/parvej/Documents/OOP_academic/ct_provat/exception/bin/Debug/net8.0/exception.runtimeconfig.json
+/home/parvej/Documents/OOP_academic/ct_provat/exception/bin/Debug/net8.0/exception.dll
+/home/parvej/Documents/OOP_academic/ct_provat/exception/bin/Debug/net8.0/exception.pdb
+/home/parvej/Documents/OOP_academic/ct_provat/exception/obj/Debug/net8.0/exception.GeneratedMSBuildEditorConfig.editorconfig
+/home/parvej/Documents/OOP_academic/ct_provat/exception/obj/Debug/net8.0/exception.AssemblyInfoInputs.cache
+/home/parvej/Documents/OOP_academic/ct_provat/exception/obj/Debug/net8.0/exception.AssemblyInfo.cs
+/home/parvej/Documents/OOP_academic/ct_provat/exception/obj/Debug/net8.0/exception.csproj.CoreCompileInputs.cache
+/home/parvej/Documents/OOP_academic/ct_provat/exception/obj/Debug/net8.0/exception.sourcelink.json
+/home/parvej/Documents/OOP_academic/ct_provat/exception/obj/Debug/net8.0/exception.dll
+/home/parvej/Documents/OOP_academic/ct_provat/exception/obj/Debug/net8.0/refint/exception.dll
+/home/parvej/Documents/OOP_academic/ct_provat/exception/obj/Debug/net8.0/exception.pdb
+/home/parvej/Documents/OOP_academic/ct_provat/exception/obj/Debug/net8.0/exception.genruntimeconfig.cache
+/home/parvej/Documents/OOP_academic/ct_provat/exception/obj/Debug/net8.0/ref/exception.dll
