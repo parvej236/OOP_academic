@@ -15,9 +15,8 @@ a.out
 # If you have a 'build' directory
 build/
 
-# Ignore everything
-*
-
+// Ignore Visual Studio Code settings
+.vscode/
 *.csproj
 
 # ignore bin and obj directories
