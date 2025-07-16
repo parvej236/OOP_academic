@@ -7,9 +7,19 @@ a.out
 *.out
 *.elf
 
+
 # Build files
 *.dSYM/
 *.log
 
 # If you have a 'build' directory
 build/
+
+# Ignore everything
+*
+
+*.csproj
+
+# ignore bin and obj directories
+bin/
+obj/
