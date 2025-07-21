@@ -67,7 +67,13 @@ This repository is maintained to:
 ## 👨‍💻 Author
 
 👋 Hello, I'm Parvej Alam  
-🎓 Undergraduate CSE Student  
+👋 Hello, I'm Parvej Alam  
+🎓 Undergraduate CSE Student at  
+<a href="https://www.cuet.ac.bd" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:inherit; display: inline-flex; align-items: center;">
+  <img src="https://cuet.ac.bd/frontend/images/cuetlogo.png" alt="CUET Logo" height="40" style="margin-right: 10px;">
+  <span>Chittagong University of Engineering and Technology (CUET)</span>
+</a>
+
 🔗 GitHub: [github.com/parvej236](https://github.com/parvej236)  
 🔗 LinkedIn: [linkedin.com/in/m-parvej-alam-1bb12a328](https://linkedin.com/in/m-parvej-alam-1bb12a328)  
 
