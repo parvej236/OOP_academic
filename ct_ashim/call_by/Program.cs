@@ -67,7 +67,7 @@ class Program
         RefTest rt = new RefTest();
         rt.Sqr(ref x);
 
-        
+
 
         Console.WriteLine("After: " + x);
 
@@ -94,5 +94,60 @@ class Program
 
         rt.ShowArgs("Here are some integers", 1, 3, 3, 4, 5);
         rt.ShowArgs("Here are two more", 29, 123);
+
+        // object initializer
+        MyClass obj = new MyClass { Count = 100, Str = "Testing" };
+        Console.WriteLine(obj.Count + ", " + obj.Str);
+
+        // pass references to methos
+        Demo demo1 = new Demo(4, 5);
+        Demo demo2 = new Demo(6, 7);
+        demo1.Show();
+        demo2.Show();
+
+        if (demo1.SameAs(demo2))
+        {
+            Console.WriteLine("Same");
+        }
+        else
+        {
+            Console.WriteLine("Not equal");
+        }
+
+        demo1.Copy(demo2);
+        demo1.Show();
+        demo2.Show();
+    }
+}
+
+class MyClass
+{
+    public int Count;
+    public string Str;
+}
+
+class Demo
+{
+    int alpha, beta;
+    public Demo(int i, int j)
+    {
+        alpha = i;
+        beta = j;
+    }
+
+    public bool SameAs(Demo demo)
+    {
+        return (demo.alpha == alpha) & (demo.beta == beta);
+    }
+
+    public void Copy(Demo demo)
+    {
+        alpha = demo.alpha;
+        beta = demo.beta;
+    }
+
+    public void Show()
+    {
+        Console.WriteLine($"alpha: {alpha}, beta: {beta}");
     }
 }
