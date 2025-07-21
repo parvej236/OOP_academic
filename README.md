@@ -1,5 +1,9 @@
 # 📘 CSE-143: Object Oriented Programming (C#)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)  
+[![GitHub repo size](https://img.shields.io/github/repo-size/parvej236/OOP_academic)]([https://github.com/parvej236/CSE-143](https://github.com/parvej236/OOP_academic/))  
+[![Last commit](https://img.shields.io/github/last-commit/parvej236/OOP_academic)](https://github.com/parvej236/OOP_academic/commits/main)
+
 This repository contains all coursework, lab tasks, assignments, homework, theory code, and practice problems for:
 
 🧑‍🏫 Conducted by: Ashim Sir & Provat Sir  
@@ -8,6 +12,16 @@ This repository contains all coursework, lab tasks, assignments, homework, theor
 📚 Course Title: Object Oriented Programming  
 🎯 Course Code: CSE-143  
 💡 Language Used: C#
+
+---
+
+## 📚 Table of Contents
+
+- [Course Overview](#-course-overview)  
+- [Topics Covered](#-topics-covered)  
+- [Why This Repository Exists](#-why-this-repository-exists)  
+- [Author](#-author)  
+- [License](#-license)  
 
 ---
 
@@ -37,6 +51,8 @@ It focuses on the design and implementation of reusable, modular, and scalable s
 - ✅ Static Class Members and Methods  
 - ✅ Introduction to Multi-threaded Programming (System.Threading)
 
+---
+
 ## 🎯 Why This Repository Exists
 
 This repository is maintained to:
@@ -53,7 +69,7 @@ This repository is maintained to:
 👋 Hello, I'm Parvej Alam  
 🎓 Undergraduate CSE Student  
 🔗 GitHub: [github.com/parvej236](https://github.com/parvej236)  
-🔗 LinkedIn: [linkedin.com/in/parvej236](https://linkedin.com/in/m-parvej-alam-1bb12a328)  
+🔗 LinkedIn: [linkedin.com/in/m-parvej-alam-1bb12a328](https://linkedin.com/in/m-parvej-alam-1bb12a328)  
 
 ---
 
