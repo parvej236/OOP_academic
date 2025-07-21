@@ -17,7 +17,7 @@ class Program
         //     Console.WriteLine();
         // }
 
-        for (int i = 5; i >= 0; i--)
+        for (int i = 5; i > 0; i--)
         {
 
             for (int j = i; j > 0; j--)
@@ -30,26 +30,6 @@ class Program
                 Console.Write("  ");
             }
             Console.WriteLine();
-        }
-
-        // code for check prime number
-        Console.Write("Enter a number to check if it is prime: ");
-        int number = int.Parse(Console.ReadLine());
-        bool isPrime = number > 1;
-
-        for (int i = 2; i <= Math.Sqrt(number); i++)
-        {
-            if (number % i == 0)
-            {
-                isPrime = false;
-                break;
-            }
-        }
-
-        if (isPrime)
-            Console.WriteLine($"{number} is a prime number.");
-        else
-            Console.WriteLine($"{number} is not a prime number.");
-        
+        }        
     }
 }

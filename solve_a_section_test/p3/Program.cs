@@ -35,7 +35,6 @@ class Rectangle : Shape
 
     public override void Description()
     {
-        Console.WriteLine($"Shape: Rectangle");
         Console.WriteLine($"Description: A rectangle with width {Width} and height {Height}");
         Console.WriteLine($"Area: {Area()}");
     }
@@ -50,7 +49,6 @@ class Triangle : Shape
 
     public override void Description()
     {
-        Console.WriteLine($"Shape: Triangle");
         Console.WriteLine($"Description: A triangle with width {Width} and height {Height}");
         Console.WriteLine($"Area: {Area()}");
     }
@@ -67,7 +65,7 @@ class Program
 
         for (int i = 0; i < shapes.Length; i++)
         {
-            Console.WriteLine($"Shape {i + 1}:");
+            Console.WriteLine($"Shape {i + 1}: {shapes[i]}");
             shapes[i].Description();
             Console.WriteLine();
         }

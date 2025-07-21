@@ -98,35 +98,5 @@ class Program
         {
             student.DisplayInfo();
         }
-
-        // foreach (var student in students)
-        // {
-        //     int batch = 0;
-        //     string section = "";
-        //     string group = "";
-
-        //     if (student is CSE cse)
-        //     {
-        //         batch = cse.Batch;
-        //         section = cse.Section;
-        //         group = cse.Group;
-        //     }
-        //     else if (student is EEE eee)
-        //     {
-        //         batch = eee.Batch;
-        //         section = eee.Section;
-        //         group = eee.Group;
-        //     }
-        //     else if (student is ME me)
-        //     {
-        //         batch = me.Batch;
-        //         section = me.Section;
-        //         group = me.Group;
-        //     }
-
-
-        //     Console.WriteLine($"Name: {student.Name}, Department: {student.Department}, ID: {student.ID}, Batch: {batch}, Name: {section}, Group: {group}");
-
-        // }
     }
 }

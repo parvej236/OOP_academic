@@ -5,12 +5,6 @@ public class MyClass
     public int Age { get; set; }
     public string Name { get; set; }
 
-    // public int Age
-    // {
-    //     get;
-    //     set;
-    // }
-
     // public string Name
     // {
     //     get { return name; }
@@ -55,7 +49,7 @@ public class Bank {
             int birthYear = now.Year - age;
             return birthYear;
         }
-        set { 
+        set {
             if (value < 1) {
                 Console.WriteLine("Age cannot be less than zero");
                 Environment.Exit(1);
