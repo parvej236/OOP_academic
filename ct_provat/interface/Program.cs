@@ -20,6 +20,35 @@
 //     }
 // }
 
+// public interface IA
+// {
+//     void m1();
+//     void m2();
+// }
+
+// public interface IB : IA
+// {
+//     void m3();
+// }
+
+// class MyClass : IB
+// {
+//     public void m1()
+//     {
+//         //
+//     }
+
+//     public void m2()
+//     {
+//         //
+//     }
+
+//     public void m3()
+//     {
+//         //
+//     }
+// }
+
 
 public interface IPrintable
 {

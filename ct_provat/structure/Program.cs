@@ -71,7 +71,7 @@ struct Point
         Console.WriteLine("Area of Square 1: " + s1.Area());
 
         Point[] points = new Point[3];
-        points[0] = new Point(1, 2);
+        points[0] = new Point {x =1, y=2};
         points[1] = new Point(3, 4);
         points[2] = new Point(5, 6);
 
