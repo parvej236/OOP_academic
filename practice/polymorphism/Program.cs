@@ -24,6 +24,26 @@ class Dog : Animal
     }
 }
 
+class Counter
+{
+    public int n;
+
+    public Counter(int n)
+    {
+        this.n = n;
+    }
+
+    public static Counter operator ++(Counter cnt)
+    {
+        return new Counter(cnt.n + 1);
+    }
+
+    public void Show()
+    {
+        Console.WriteLine($"n : {n}");
+    }
+}
+
 class Program
 {
     static void Main(string[] args)
@@ -35,5 +55,13 @@ class Program
         myAnimal.animalSound();
         myPig.animalSound();
         myDog.animalSound();
+
+        // deferences pre vs post increment by operator overloading
+        Counter cnt1 = new Counter(5);
+        Counter cnt2 = cnt1++;
+        cnt2.Show();
+        Counter cnt3 = ++cnt1;
+        cnt3.Show();
+
     }
 }
