@@ -67,14 +67,13 @@ class Program
         RefTest rt = new RefTest();
         rt.Sqr(ref x);
 
-
-
         Console.WriteLine("After: " + x);
 
         int a = 10, b = 20;
         Console.WriteLine("Before Swap: a = " + a + ", b = " + b);
         rt.Swap(ref a, ref b);
         Console.WriteLine("After Swap: a = " + a + ", b = " + b);
+
 
         int i;
         double f;

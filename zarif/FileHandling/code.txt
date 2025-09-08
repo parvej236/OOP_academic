@@ -1,0 +1,34 @@
+using System;
+class Program
+{
+    public static void Main()
+    {
+        StreamReader sr1 = new StreamReader("file.txt");
+
+        while (true)
+        {
+            string content = sr1.ReadLine();
+            if (content == null) break;
+            Console.WriteLine(content);
+        }
+        sr1.Close();
+        Console.WriteLine("");
+
+        StreamWriter sw = new StreamWriter("file.txt", true); //true = append
+        sw.WriteLine("\nAnother line?");
+        Console.Error.WriteLine("Warning: Line appended");
+        sw.Close();
+        Console.WriteLine("");
+
+        StreamReader sr2 = new StreamReader("file.txt");
+
+        while (true)
+        {
+            string content = sr2.ReadLine();
+            if (content == null) break;
+            Console.WriteLine(content);
+        }
+        sr2.Close();
+        Console.WriteLine("");
+    }
+}

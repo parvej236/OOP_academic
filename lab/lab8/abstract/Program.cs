@@ -70,5 +70,6 @@ class Program
         Console.WriteLine("\nArea of the rectangle: " + r.area());
         Console.WriteLine("Shape type: " + r);
         r.display();
+
     }
 }
