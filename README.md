@@ -57,10 +57,11 @@ It focuses on the design and implementation of reusable, modular, and scalable s
 
 This repository is maintained to:
 
-- Serve as a personal academic archive  
+- Serve as a personal academic archive 
 - Help future students understand the course structure and examples  
 - Showcase my work and C# programming proficiency for future job/internship applications  
-- Provide a reusable resource for revision and advanced projects  
+- Provide a reusable resource for revision and advanced projects
+- Happy coding!!!
 
 ---
 
